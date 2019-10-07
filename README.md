@@ -14,4 +14,4 @@ _This is italic_
 - [x] Python is required
 - [ ] Jave is required
 
-[Open linked file](OneText.txt)
+[Open linked file](linked.md)
